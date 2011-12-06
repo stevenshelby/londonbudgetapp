@@ -1,0 +1,29 @@
+
+<script type="text/javascript" charset="utf-8">
+  $(function() {
+    new Highcharts.Chart({
+      chart: {
+        renderTo: "<%= whatdiv %>",
+        type: "pie",
+      },
+      credits:{enabled:false},
+      title: {
+        text: "<%= title %>"
+      },
+      tooltip: {
+        formatter: function() {
+          return "$" + Highcharts.numberFormat(this.y, 0);
+        }
+      },
+      series: [{
+        data:[
+          <%  points.each do |point| %>
+            [<%=raw("\"#{point.sanitize_name}\"")%>,<%= point.expenditure %>]
+          ,
+        <% end %>
+        ]
+
+      }]
+    });
+  });
+</script>

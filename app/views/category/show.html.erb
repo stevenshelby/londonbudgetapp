@@ -1,0 +1,27 @@
+<%= render :partial => 'chart', :locals => {:whatdiv => 'expense_chart', :title => raw(@category.sanitize_name), :points => @category.children }-%>
+
+<div class="chart" id="expense_chart" style="width:560px; height:300px;"></div>
+<div class="chart" id="second_chart" style="width:560px; height:300px; display:none;"></div>
+<div id="test">
+  <p>Test Budget Chart to fill once data is imported.</p>
+  <%= link_to_show_div("chart", "second_chart") %>
+  <%= link_to_function("Hide budget_chart", "hidedivs()") %>
+</div>
+
+<a id="showHowThisWorks">How does this work?</a>
+<a id="nono">nono</a>
+
+<div id="subcategory_list">
+  <% for item in @category.children.sort_by{|e| -e[:expenditure]} do -%>
+
+    <p>
+    <% if item.has_children?  %>
+        <%= link_to "#{item.sanitize_name} #{number_to_currency(item.expenditure, :strip_insignificant_zeros => true)}  #{number_to_currency(item.revenue, :strip_insignificant_zeros => true)}", item %>
+    <% else %>
+      <%= "#{item.sanitize_name} #{number_to_currency(item.expenditure, :strip_insignificant_zeros => true)} #{number_to_currency(item.revenue, :strip_insignificant_zeros => true)}" %>
+    <% end %>
+    </p>
+
+  <% end -%>
+</div>
+

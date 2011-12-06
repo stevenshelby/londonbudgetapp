@@ -1,4 +1,6 @@
 Londonbudgetapp::Application.routes.draw do
+  resources :topics
+
   resources :budget
   resources :category
   

@@ -1,0 +1,20 @@
+<%= render :partial => 'chart', :locals => {:whatdiv => 'budget_chart', :title => 'Budget Chart',:points => @points }-%>
+
+
+
+
+<div class="chart" id="budget_chart" style="width:560px; height:300px;"></div>
+<div class="chart" id="second_chart" style="width:560px; height:300px; display:none;"></div>
+<div id="test">
+  <p>Test Budget Chart to fill once data is imported.</p>
+  <%= link_to_show_div("chart", "second_chart") %>
+  <%= link_to_function("Hide budget_chart", "hidedivs()") %>
+</div>
+<div id="budget_chart">
+  
+</div>
+
+<a id="showHowThisWorks">How does this work?</a>
+<a id="nono">nono</a>
+
+

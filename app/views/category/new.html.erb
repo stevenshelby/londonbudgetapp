@@ -1,0 +1,15 @@
+<div id="new_budget">
+  <%= form_for @budget, :multipart=>true, :url => {:controller => :budget,  :action => :create} do |f| -%>
+    <p><%= f.label :name %>
+    <%= f.text_field :name %>
+    </p>
+    <p>
+    <%= f.label :year %>
+    <%= f.date_select(:year, :start_year => 2011, :discard_day => true, :discard_month => true) %>
+    </p>
+    <%= f.file_field 'upload' %>
+    <%= f.submit %>
+  <% end -%>
+  
+</div>
+

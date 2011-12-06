@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  year: 2011-11-13 14:31:35
+
+two:
+  name: MyString
+  year: 2011-11-13 14:31:35
