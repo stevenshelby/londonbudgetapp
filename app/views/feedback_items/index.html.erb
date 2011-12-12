@@ -1,0 +1,27 @@
+<h1>Listing feedback_items</h1>
+
+<table>
+  <tr>
+    <th>Topic</th>
+    <th>Rank</th>
+    <th>Percentage</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @feedback_items.each do |feedback_item| %>
+  <tr>
+    <td><%= feedback_item.topic_id %></td>
+    <td><%= feedback_item.rank %></td>
+    <td><%= feedback_item.percentage %></td>
+    <td><%= link_to 'Show', feedback_item %></td>
+    <td><%= link_to 'Edit', edit_feedback_item_path(feedback_item) %></td>
+    <td><%= link_to 'Destroy', feedback_item, confirm: 'Are you sure?', method: :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Feedback item', new_feedback_item_path %>

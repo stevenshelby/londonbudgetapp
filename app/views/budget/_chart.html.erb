@@ -4,8 +4,12 @@
     new Highcharts.Chart({
       chart: {
         renderTo: "<%= whatdiv %>",
-        type: "pie",
-      },
+        <% if type.equals? "total" %>
+          type: "bar",
+        <% else %> 
+          type: "pie",
+        <% end %>
+       },
       credits:{enabled:false},
       title: {
         text: "<%= title %>"

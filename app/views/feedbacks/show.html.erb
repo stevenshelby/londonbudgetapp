@@ -1,0 +1,15 @@
+<h2>Thankyou For Your Feedback</h2>
+<ul>
+  <% for item in @feedback.feedback_items.sort_by{|e| e[:position]} do %>
+    <%= content_tag_for :li, item do %>
+      <div>
+        <%= item.topic.name %>
+        <%= item.percentage %>%
+      </div>
+    <% end -%>
+  <% end %>
+  <b>Comment:</b>
+  <%= @feedback.comment %>
+
+</ul>
+<%= link_to('Return to Budget Home', '#') %>

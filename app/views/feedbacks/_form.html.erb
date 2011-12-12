@@ -1,0 +1,26 @@
+
+<%= semantic_form_for @feedback do |ff| %>
+  <ul id="feedback_items">
+    <%= ff.semantic_fields_for :feedback_items do |fi| %>
+    
+      <li>
+    <div>
+    <span class="handle"><%= image_tag('updown.png', :height => '35' ) %></span>
+      <ul class="stopit">
+        <%= fi.input :position, :as => :hidden%>
+      <%= fi.input :topic_id, :as => :hidden %>
+      <%= fi.semantic_fields_for :topic do |topic| %>
+        <%= topic.input :name, :label => false, :input_html => {:class => 'readonly', :readonly => true} %>
+      <% end -%>
+      <%= fi.input :percentage, :label => false, :as => :select, :collection => @p_range %>
+      <label class="percent">% Budget Change</label>
+    </ul>
+    </div>
+    </li>
+  <% end %>
+  <label>If you have any other comments, please write it here:</label>
+  <%= ff.input :comment, :label => false, :input_html => {:rows => 2, :cols => 50} %>
+
+  <%= ff.submit "Submit Feedback" %>
+<% end %>
+  </ul>

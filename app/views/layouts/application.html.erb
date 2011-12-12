@@ -6,10 +6,16 @@
   <%= javascript_include_tag "application" %>
   <%= javascript_include_tag "highcharts" %>
   <%= csrf_meta_tags %>
+
 </head>
 <body>
-
-<%= yield %>
-
+  <div id="main">
+    <div id="wrapper">
+     <%= render :partial => "header" %>
+      <div id="main-content">
+        <%= yield %>
+      </div>
+    </div>
+  </div>
 </body>
 </html>

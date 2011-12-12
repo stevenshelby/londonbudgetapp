@@ -4,14 +4,21 @@
 #
 
 $(document).ready ->
+  $('#revenue_chart').hide()
+  $('#total_chart').hide()
+
   hidecharts = () ->
-    $('.chart').hide("slow")
+    $('.chart').hide("fast")
 
-  $('#showHowThisWorks').click ->
+  $('#expense').click ->
     hidecharts()
-    $('#budget_chart').show("slow")
+    $('#expense_chart').show("slow")
 
-  $('#nono').click ->
+  $('#revenue').click ->
     hidecharts()
-    $('#second_chart').show("slow")
+    $('#revenue_chart').show("slow")
+
+  $('#total').click ->
+    hidecharts()
+    $('#total_chart').show("slow")
 

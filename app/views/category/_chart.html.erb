@@ -4,7 +4,11 @@
     new Highcharts.Chart({
       chart: {
         renderTo: "<%= whatdiv %>",
-        type: "pie",
+        <% if type == "total" %>
+          type: "column"
+        <% else %> 
+          type: "pie"
+        <% end %>
       },
       credits:{enabled:false},
       title: {
@@ -16,14 +20,37 @@
         }
       },
       series: [{
+      <% if type == "total" %>
+            name: 'Total Expenditure',
+            data: [<%= points.expenditure %>]
+      }, {
+         name: 'Total Revenue',
+         data: [<%= points.revenue %>]
+      }]
+
+      <% else %>
+
         data:[
-          <%  points.each do |point| %>
+      <% end %>
+      <% if type == "expenditure" %>
+         <%  points.each do |point| %>
             [<%=raw("\"#{point.sanitize_name}\"")%>,<%= point.expenditure %>]
-          ,
-        <% end %>
-        ]
+            ,
+      <% end %>
+               ]
 
       }]
-    });
+
+      <% elsif type == "revenue" %>
+         <%  points.each do |point| %>
+            [<%=raw("\"#{point.sanitize_name}\"")%>,<%= point.revenue %>]
+            ,
+         <% end %>
+       ]
+
+      }]
+
+      <% end %>
+     });
   });
 </script>

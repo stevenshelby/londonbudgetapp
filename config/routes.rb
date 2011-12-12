@@ -1,6 +1,10 @@
 Londonbudgetapp::Application.routes.draw do
-  resources :topics
+  resources :feedbacks do
+    resources :feedback_items, :collection => { :sort => :rank}
+      resources :topics
+  end
 
+  resources :topics
   resources :budget
   resources :category
   

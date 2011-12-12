@@ -1,0 +1,113 @@
+@import "rounded";
+
+$div-background: white;
+$div-text-color: black;
+$app-width: 1024px;
+$content-width: 810px;
+
+body {
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+}
+
+#main {
+  background-color: white;
+  width: $app-width;
+  padding-left: 20px;
+}
+
+#wrapper {
+  @include rounded;
+  -moz-box-shadow: 0 0 10px #000000;
+  -webkit-box-shadow: 0 0 10px #000000;
+  box-shadow: 0 0 10px #000000;
+  background-color: $div-background;
+  width: $content-width;
+  h2 {
+    text-align: center;
+    a {
+      color: lighten($div-text-color, 35%);
+    }
+  }
+}
+
+#main-content {
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+
+}
+
+#topnav {
+  height: 35px;
+  margin-top: 0;
+}
+
+#topnav ul{
+  margin-top: 0;
+  padding-left: 0;
+  margin-left: 0;
+  background-color: #036;
+  color: white;
+  float: left;
+  width: 100%;
+  li { 
+    display: inline; 
+  }
+  li a {
+    padding: 0.2em 1em;
+    background-color: #036;
+    color: White;
+    text-decoration: none;
+    float: left;
+    border-right: 1px solid #fff;
+  }
+  li a:hover {
+    background-color: #369;
+    color: #fff;
+  }
+}
+
+#header {
+  @include rounded;
+  height: 150px;
+  background-image: url('londonheader.png');
+}
+
+
+
+#budget_items {
+  width: 650px;
+  padding-left: 5%;
+  padding-right: 5%;
+  border-color: black;
+  border-style: solid;
+  th {
+    text-decoration: underline;
+  }
+  tr:hover {
+    background-color: green;
+  }
+}
+  
+.budget_item_name {
+  text-align: center;
+  border-width: 1px;
+}
+
+.budget_item_expense {
+  text-align: right;
+  padding-left: 3px;
+}
+
+.budget_item_revenue {
+  text-align: right;
+  padding-left: 3px;
+}
+
+.budget_item_difference {
+  text-align: right;
+  padding-left: 3px;
+}

@@ -1,26 +1,39 @@
-<%= render :partial => 'chart', :locals => {:whatdiv => 'expense_chart', :title => raw(@category.sanitize_name), :points => @category.children }-%>
+<%= render :partial => 'chart', :locals => {:type => 'expenditure', :whatdiv => 'expense_chart', :title => raw(@category.sanitize_name) + " Expenditure" , :points => @category.children }-%>
+<%= render :partial => 'chart', :locals => {:type => 'revenue', :whatdiv => 'revenue_chart', :title => raw(@category.sanitize_name) + " Revenue", :points => @category.children }-%>
+<%= render :partial => 'chart', :locals => {:type => 'total', :whatdiv => 'total_chart', :title => raw(@category.sanitize_name) + " Totals", :points => @category }-%>
 
-<div class="chart" id="expense_chart" style="width:560px; height:300px;"></div>
-<div class="chart" id="second_chart" style="width:560px; height:300px; display:none;"></div>
-<div id="test">
-  <p>Test Budget Chart to fill once data is imported.</p>
-  <%= link_to_show_div("chart", "second_chart") %>
-  <%= link_to_function("Hide budget_chart", "hidedivs()") %>
-</div>
+<div class="chart" id="expense_chart"></div>
+<div class="chart" id="revenue_chart"></div>
+<div class="chart" id="total_chart"> </div>
 
-<a id="showHowThisWorks">How does this work?</a>
-<a id="nono">nono</a>
+<a id="expense">Show Expense Chart</a>
+<a id="revenue">Show Revenue Chart</a>
+<a id="total">Show Category Totals Chart</a>
 
-<div id="subcategory_list">
+
+<table id="budget_items">
+  <tr>
+    <th>Budget Category</th>
+    <th>Expenditure</th>
+    <th>Revenue</th>
+    <th>Total Cost</th>
+  </tr>
+    
   <% for item in @category.children.sort_by{|e| -e[:expenditure]} do -%>
 
-    <p>
+    <tr>
     <% if item.has_children?  %>
-        <%= link_to "#{item.sanitize_name} #{number_to_currency(item.expenditure, :strip_insignificant_zeros => true)}  #{number_to_currency(item.revenue, :strip_insignificant_zeros => true)}", item %>
+      <td class="budget_item_name"> <%= link_to "#{item.sanitize_name}", item %></td>
+      <td class="budget_item_expense"><%= link_to "#{number_to_currency(item.expenditure, :strip_insignificant_zeros => true)}", item %> </td>
+      <td class="budget_item_revenue"><%= link_to "#{number_to_currency(item.revenue, :strip_insignificant_zeros => true)}", item %></td>
+      <td class="budget_item_difference"><%= link_to "#{number_to_currency(item.expenditure+item.revenue, :strip_insignificant_zeros => true)}", item %></td>
     <% else %>
-      <%= "#{item.sanitize_name} #{number_to_currency(item.expenditure, :strip_insignificant_zeros => true)} #{number_to_currency(item.revenue, :strip_insignificant_zeros => true)}" %>
+      <td class="budget_item_name"> <%= item.sanitize_name %> </td>
+      <td class="budget_item_expense"><%= number_to_currency(item.expenditure, :strip_insignificant_zeros => true) %> </td>
+      <td class="budget_item_revenue"><%= number_to_currency(item.revenue, :strip_insignificant_zeros => true) %></td>
+      <td class="budget_item_difference"><%= number_to_currency(item.expenditure+item.revenue, :strip_insignificant_zeros => true) %></td>
     <% end %>
-    </p>
+    </tr>
 
   <% end -%>
 </div>

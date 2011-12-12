@@ -7,6 +7,8 @@ gem 'rails', '3.1.0'
 
 gem 'sqlite3'
 gem 'ancestry'
+gem 'acts_as_list'
+gem 'formtastic'
 
 #to get rid of the no javascript runtime error
 gem 'therubyracer'
