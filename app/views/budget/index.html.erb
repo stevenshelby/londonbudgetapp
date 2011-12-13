@@ -1,8 +1,32 @@
 <div id="budgetlist">
-  <%= for b in @budgets do %>
-    <%= link_to b.name, b %>
-  <% end -%>
-  
-</div>
+  <h1>Budget Year 2012</h1>
+  <ul>
+    <li><%= link_to "2012 Proposed Operating Budget by Organization", budget_path(3) %></li>
+    <li><%= link_to "2012 Proposed Tax Supported by Service", budget_path(4) %></li>
+  </ul>
+  <h1>Budget Year 2011</h1>
+  <ul>
+    <li><%= link_to "2011 Operating Budget by Organization", budget_path(1) %></li>
+    <li><%= link_to "2011 Tax Supported By Service", budget_path(2) %></li>
+  </ul>
 
+</div>
+<div>
+  <b>What is the difference between an Operating Budget and a Tax Supported by Service Budget?</b>
+  <p>
+  The difference is fairly simple. An operating budget deals with operations within the city. 
+  The operating budget is funded by approximately 65% from taxes, and the remaining by
+  grants and user fees.
+  </p>
+
+  <p>
+  The tax supported by service budget is also
+  called a capital budget and deals with issues that need funding over a period of time. Road repaving, protective services, and transportation 
+  services are examples of capital expenditures.
+  </p>
+</div>
+<div>
+  <b>What would you change in the budget?</b>
+  <p>Click <%= link_to "here", new_feedback_path %> to fill out a really quick survey to have your say about the "Adds and Cuts" in the 2012 proposed budget.</p>
+</div>
 

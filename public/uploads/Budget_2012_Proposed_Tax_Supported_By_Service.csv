@@ -1,0 +1,534 @@
+"Service","Service Bundle","Service Code","Object","EXPENDITURE","REVENUE"
+"1 Culture","1.1 Cultural Services","1.1.1 Centennial Hall","010 Personnel Costs",16000,0
+"1 Culture","1.1 Cultural Services","1.1.1 Centennial Hall","020 Administrative Expenses",5500,0
+"1 Culture","1.1 Cultural Services","1.1.1 Centennial Hall","040 Purchased Services",376500,0
+"1 Culture","1.1 Cultural Services","1.1.1 Centennial Hall","050 Materials & Supplies",222524,0
+"1 Culture","1.1 Cultural Services","1.1.1 Centennial Hall","060 Furniture & Equipment",5000,0
+"1 Culture","1.1 Cultural Services","1.1.1 Centennial Hall","080 Other Expenses",90000,0
+"1 Culture","1.1 Cultural Services","1.1.1 Centennial Hall","130 User Fees",0,-615500
+"1 Culture","1.1 Cultural Services","1.1.2 Arts, Culture & Heri Adv & Fnd","010 Personnel Costs",209225,0
+"1 Culture","1.1 Cultural Services","1.1.2 Arts, Culture & Heri Adv & Fnd","020 Administrative Expenses",9340,0
+"1 Culture","1.1 Cultural Services","1.1.2 Arts, Culture & Heri Adv & Fnd","040 Purchased Services",322080,0
+"1 Culture","1.1 Cultural Services","1.1.2 Arts, Culture & Heri Adv & Fnd","050 Materials & Supplies",2500,0
+"1 Culture","1.1 Cultural Services","1.1.2 Arts, Culture & Heri Adv & Fnd","070 Transfers",1506600,0
+"1 Culture","1.1 Cultural Services","1.1.3 Art Gallery & Museums","070 Transfers",1619000,0
+"1 Culture","1.2 Heritage","1.2.1 Heritage","010 Personnel Costs",87426,0
+"1 Culture","1.3 Libraries","1.3.1 Library Services","070 Transfers",18060000,0
+"2 Economic Prosperity","2.1 Economic Development","2.1.1 LEDC(Business Attract Retent)","030 Financial Expenses",3181000,0
+"2 Economic Prosperity","2.1 Economic Development","2.1.1 LEDC(Business Attract Retent)","040 Purchased Services",2683785,0
+"2 Economic Prosperity","2.1 Economic Development","2.1.2 Community Improvement/BIA","010 Personnel Costs",96207,0
+"2 Economic Prosperity","2.1 Economic Development","2.1.2 Community Improvement/BIA","040 Purchased Services",212204,0
+"2 Economic Prosperity","2.1 Economic Development","2.1.2 Community Improvement/BIA","070 Transfers",10000,0
+"2 Economic Prosperity","2.1 Economic Development","2.1.2 Community Improvement/BIA","140 Other Municipal Revenues",0,-106102
+"2 Economic Prosperity","2.1 Economic Development","2.1.3 LCC (Convs, Mtgs & Events Att)","070 Transfers",600000,0
+"2 Economic Prosperity","2.1 Economic Development","2.1.6 Tourism Ldn(Tour Sp Attr Serv)","070 Transfers",1767282,0
+"3 Environmental Services","3.1 Conservation Authorities","3.1.1 K.C.C.A.","070 Transfers",351659,0
+"3 Environmental Services","3.1 Conservation Authorities","3.1.2 L.T.V.C.A.","070 Transfers",84194,0
+"3 Environmental Services","3.1 Conservation Authorities","3.1.3 U.T.R.C.A.","070 Transfers",2550449,0
+"3 Environmental Services","3.2 Environmental Stewardship","3.2.1 Environmental Programs","010 Personnel Costs",524908,0
+"3 Environmental Services","3.2 Environmental Stewardship","3.2.1 Environmental Programs","020 Administrative Expenses",500,0
+"3 Environmental Services","3.2 Environmental Stewardship","3.2.1 Environmental Programs","040 Purchased Services",242818,0
+"3 Environmental Services","3.2 Environmental Stewardship","3.2.1 Environmental Programs","050 Materials & Supplies",3000,0
+"3 Environmental Services","3.2 Environmental Stewardship","3.2.1 Environmental Programs","060 Furniture & Equipment",5625,0
+"3 Environmental Services","3.2 Environmental Stewardship","3.2.1 Environmental Programs","140 Other Municipal Revenues",0,-103935
+"3 Environmental Services","3.3 Garbage Recycling & Composting","3.3.1 Recycling & Composting","010 Personnel Costs",672484,0
+"3 Environmental Services","3.3 Garbage Recycling & Composting","3.3.1 Recycling & Composting","020 Administrative Expenses",1600,0
+"3 Environmental Services","3.3 Garbage Recycling & Composting","3.3.1 Recycling & Composting","040 Purchased Services",9202429,0
+"3 Environmental Services","3.3 Garbage Recycling & Composting","3.3.1 Recycling & Composting","050 Materials & Supplies",4390,0
+"3 Environmental Services","3.3 Garbage Recycling & Composting","3.3.1 Recycling & Composting","060 Furniture & Equipment",33417,0
+"3 Environmental Services","3.3 Garbage Recycling & Composting","3.3.1 Recycling & Composting","130 User Fees",0,-140000
+"3 Environmental Services","3.3 Garbage Recycling & Composting","3.3.1 Recycling & Composting","140 Other Municipal Revenues",0,-5150000
+"3 Environmental Services","3.3 Garbage Recycling & Composting","3.3.2 Garbage Collection & Disposal","010 Personnel Costs",6596219,0
+"3 Environmental Services","3.3 Garbage Recycling & Composting","3.3.2 Garbage Collection & Disposal","020 Administrative Expenses",83575,0
+"3 Environmental Services","3.3 Garbage Recycling & Composting","3.3.2 Garbage Collection & Disposal","030 Financial Expenses",506000,0
+"3 Environmental Services","3.3 Garbage Recycling & Composting","3.3.2 Garbage Collection & Disposal","040 Purchased Services",437500,0
+"3 Environmental Services","3.3 Garbage Recycling & Composting","3.3.2 Garbage Collection & Disposal","050 Materials & Supplies",286135,0
+"3 Environmental Services","3.3 Garbage Recycling & Composting","3.3.2 Garbage Collection & Disposal","060 Furniture & Equipment",4478746,0
+"3 Environmental Services","3.3 Garbage Recycling & Composting","3.3.2 Garbage Collection & Disposal","080 Other Expenses",505904,0
+"3 Environmental Services","3.3 Garbage Recycling & Composting","3.3.2 Garbage Collection & Disposal","090 Recovered Expenses",-110000,0
+"3 Environmental Services","3.3 Garbage Recycling & Composting","3.3.2 Garbage Collection & Disposal","130 User Fees",0,-3988000
+"3 Environmental Services","3.3 Garbage Recycling & Composting","3.3.2 Garbage Collection & Disposal","140 Other Municipal Revenues",0,-222600
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.1 Aquatics","010 Personnel Costs",2795134,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.1 Aquatics","020 Administrative Expenses",26500,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.1 Aquatics","040 Purchased Services",65580,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.1 Aquatics","050 Materials & Supplies",275727,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.1 Aquatics","060 Furniture & Equipment",93460,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.1 Aquatics","130 User Fees",0,-2460172
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.1 Aquatics","140 Other Municipal Revenues",0,-4000
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.2 Arenas","010 Personnel Costs",3944578,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.2 Arenas","020 Administrative Expenses",74350,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.2 Arenas","040 Purchased Services",2572672,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.2 Arenas","050 Materials & Supplies",188500,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.2 Arenas","060 Furniture & Equipment",385562,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.2 Arenas","130 User Fees",0,-5443152
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.2 Arenas","140 Other Municipal Revenues",0,-105000
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.3 Children's Services","010 Personnel Costs",1896756,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.3 Children's Services","020 Administrative Expenses",62477,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.3 Children's Services","040 Purchased Services",27337699,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.3 Children's Services","050 Materials & Supplies",19745,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.3 Children's Services","060 Furniture & Equipment",33143,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.3 Children's Services","070 Transfers",2380784,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.3 Children's Services","120 Government Grants & Subsidies",0,-25161577
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.4 Community Centres","010 Personnel Costs",2664520,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.4 Community Centres","020 Administrative Expenses",37998,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.4 Community Centres","040 Purchased Services",103106,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.4 Community Centres","050 Materials & Supplies",353500,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.4 Community Centres","060 Furniture & Equipment",28598,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.4 Community Centres","080 Other Expenses",5782,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.4 Community Centres","120 Government Grants & Subsidies",0,-120336
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.4 Community Centres","130 User Fees",0,-1388969
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.4 Community Centres","140 Other Municipal Revenues",0,-71700
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.5 Community Development&Funding","010 Personnel Costs",473728,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.5 Community Development&Funding","020 Administrative Expenses",14809,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.5 Community Development&Funding","040 Purchased Services",641366,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.5 Community Development&Funding","050 Materials & Supplies",23782,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.5 Community Development&Funding","070 Transfers",1921230,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.6 Community Rec & Leisure Prog","010 Personnel Costs",1708209,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.6 Community Rec & Leisure Prog","020 Administrative Expenses",38422,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.6 Community Rec & Leisure Prog","040 Purchased Services",155293,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.6 Community Rec & Leisure Prog","050 Materials & Supplies",127206,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.6 Community Rec & Leisure Prog","060 Furniture & Equipment",1033,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.6 Community Rec & Leisure Prog","130 User Fees",0,-1196135
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.7 Golf","010 Personnel Costs",1844439,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.7 Golf","020 Administrative Expenses",15600,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.7 Golf","030 Financial Expenses",120870,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.7 Golf","040 Purchased Services",362072,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.7 Golf","050 Materials & Supplies",741374,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.7 Golf","060 Furniture & Equipment",509741,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.7 Golf","080 Other Expenses",8000,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.7 Golf","130 User Fees",0,-2844179
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.7 Golf","140 Other Municipal Revenues",0,-757918
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.9 Special Events Coordination","010 Personnel Costs",162056,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.9 Special Events Coordination","020 Administrative Expenses",3100,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.9 Special Events Coordination","040 Purchased Services",6100,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.9 Special Events Coordination","050 Materials & Supplies",6500,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.9 Special Events Coordination","060 Furniture & Equipment",6204,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.9 Special Events Coordination","080 Other Expenses",5000,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.9 Special Events Coordination","130 User Fees",0,-123827
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.9 Special Events Coordination","140 Other Municipal Revenues",0,-19230
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.10 Sports Services","010 Personnel Costs",843407,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.10 Sports Services","020 Administrative Expenses",6000,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.10 Sports Services","040 Purchased Services",105200,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.10 Sports Services","050 Materials & Supplies",300300,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.10 Sports Services","060 Furniture & Equipment",334314,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.10 Sports Services","070 Transfers",95000,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.10 Sports Services","130 User Fees",0,-673939
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.11 Storybook Gardens","010 Personnel Costs",823743,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.11 Storybook Gardens","020 Administrative Expenses",9550,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.11 Storybook Gardens","030 Financial Expenses",14850,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.11 Storybook Gardens","040 Purchased Services",272517,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.11 Storybook Gardens","050 Materials & Supplies",288500,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.11 Storybook Gardens","060 Furniture & Equipment",3699,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.11 Storybook Gardens","080 Other Expenses",30000,0
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.11 Storybook Gardens","130 User Fees",0,-1076259
+"4 Parks, Rec&Neighbourhood Serv","4.1 Neighbourhood&Recreation Serv","4.1.11 Storybook Gardens","140 Other Municipal Revenues",0,-333000
+"4 Parks, Rec&Neighbourhood Serv","4.2 Parks & Urban Forestry","4.2.2 Parks & Horticulture","010 Personnel Costs",3940344,0
+"4 Parks, Rec&Neighbourhood Serv","4.2 Parks & Urban Forestry","4.2.2 Parks & Horticulture","020 Administrative Expenses",33500,0
+"4 Parks, Rec&Neighbourhood Serv","4.2 Parks & Urban Forestry","4.2.2 Parks & Horticulture","040 Purchased Services",859725,0
+"4 Parks, Rec&Neighbourhood Serv","4.2 Parks & Urban Forestry","4.2.2 Parks & Horticulture","050 Materials & Supplies",534912,0
+"4 Parks, Rec&Neighbourhood Serv","4.2 Parks & Urban Forestry","4.2.2 Parks & Horticulture","060 Furniture & Equipment",1408850,0
+"4 Parks, Rec&Neighbourhood Serv","4.2 Parks & Urban Forestry","4.2.2 Parks & Horticulture","140 Other Municipal Revenues",0,-5000
+"4 Parks, Rec&Neighbourhood Serv","4.2 Parks & Urban Forestry","4.2.3 Parks & Nat Areas Plng & Des","010 Personnel Costs",655374,0
+"4 Parks, Rec&Neighbourhood Serv","4.2 Parks & Urban Forestry","4.2.3 Parks & Nat Areas Plng & Des","020 Administrative Expenses",5256,0
+"4 Parks, Rec&Neighbourhood Serv","4.2 Parks & Urban Forestry","4.2.3 Parks & Nat Areas Plng & Des","040 Purchased Services",57723,0
+"4 Parks, Rec&Neighbourhood Serv","4.2 Parks & Urban Forestry","4.2.3 Parks & Nat Areas Plng & Des","060 Furniture & Equipment",5625,0
+"4 Parks, Rec&Neighbourhood Serv","4.2 Parks & Urban Forestry","4.2.4 Urban Forestry","010 Personnel Costs",1561881,0
+"4 Parks, Rec&Neighbourhood Serv","4.2 Parks & Urban Forestry","4.2.4 Urban Forestry","020 Administrative Expenses",23780,0
+"4 Parks, Rec&Neighbourhood Serv","4.2 Parks & Urban Forestry","4.2.4 Urban Forestry","040 Purchased Services",548641,0
+"4 Parks, Rec&Neighbourhood Serv","4.2 Parks & Urban Forestry","4.2.4 Urban Forestry","050 Materials & Supplies",26158,0
+"4 Parks, Rec&Neighbourhood Serv","4.2 Parks & Urban Forestry","4.2.4 Urban Forestry","060 Furniture & Equipment",411991,0
+"4 Parks, Rec&Neighbourhood Serv","4.2 Parks & Urban Forestry","4.2.4 Urban Forestry","080 Other Expenses",50000,0
+"4 Parks, Rec&Neighbourhood Serv","4.2 Parks & Urban Forestry","4.2.4 Urban Forestry","090 Recovered Expenses",-87213,0
+"4 Parks, Rec&Neighbourhood Serv","4.2 Parks & Urban Forestry","4.2.4 Urban Forestry","130 User Fees",0,-43500
+"5 Planning & Development Serv","5.1 Building Controls","5.1.1 Building Approvals","010 Personnel Costs",3687745,0
+"5 Planning & Development Serv","5.1 Building Controls","5.1.1 Building Approvals","020 Administrative Expenses",71706,0
+"5 Planning & Development Serv","5.1 Building Controls","5.1.1 Building Approvals","030 Financial Expenses",6000,0
+"5 Planning & Development Serv","5.1 Building Controls","5.1.1 Building Approvals","040 Purchased Services",36519,0
+"5 Planning & Development Serv","5.1 Building Controls","5.1.1 Building Approvals","050 Materials & Supplies",32779,0
+"5 Planning & Development Serv","5.1 Building Controls","5.1.1 Building Approvals","060 Furniture & Equipment",160713,0
+"5 Planning & Development Serv","5.1 Building Controls","5.1.1 Building Approvals","130 User Fees",0,-5384100
+"5 Planning & Development Serv","5.2 City Planning & Research","5.2.1 Land Use Planning","010 Personnel Costs",2335932,0
+"5 Planning & Development Serv","5.2 City Planning & Research","5.2.1 Land Use Planning","020 Administrative Expenses",41396,0
+"5 Planning & Development Serv","5.2 City Planning & Research","5.2.1 Land Use Planning","040 Purchased Services",406522,0
+"5 Planning & Development Serv","5.2 City Planning & Research","5.2.1 Land Use Planning","050 Materials & Supplies",65010,0
+"5 Planning & Development Serv","5.2 City Planning & Research","5.2.1 Land Use Planning","060 Furniture & Equipment",17558,0
+"5 Planning & Development Serv","5.2 City Planning & Research","5.2.1 Land Use Planning","130 User Fees",0,-335000
+"5 Planning & Development Serv","5.3 Development Approvals","5.3.1 Development Approvals","010 Personnel Costs",3995522,0
+"5 Planning & Development Serv","5.3 Development Approvals","5.3.1 Development Approvals","020 Administrative Expenses",21922,0
+"5 Planning & Development Serv","5.3 Development Approvals","5.3.1 Development Approvals","040 Purchased Services",24536,0
+"5 Planning & Development Serv","5.3 Development Approvals","5.3.1 Development Approvals","050 Materials & Supplies",16395,0
+"5 Planning & Development Serv","5.3 Development Approvals","5.3.1 Development Approvals","060 Furniture & Equipment",50382,0
+"5 Planning & Development Serv","5.3 Development Approvals","5.3.1 Development Approvals","130 User Fees",0,-691800
+"6 Protective Services","6.1 Animal  Services","6.1.1 Animal Services","010 Personnel Costs",75131,0
+"6 Protective Services","6.1 Animal  Services","6.1.1 Animal Services","020 Administrative Expenses",500,0
+"6 Protective Services","6.1 Animal  Services","6.1.1 Animal Services","040 Purchased Services",2180060,0
+"6 Protective Services","6.1 Animal  Services","6.1.1 Animal Services","050 Materials & Supplies",1000,0
+"6 Protective Services","6.1 Animal  Services","6.1.1 Animal Services","060 Furniture & Equipment",97526,0
+"6 Protective Services","6.1 Animal  Services","6.1.1 Animal Services","130 User Fees",0,-1288500
+"6 Protective Services","6.1 Animal  Services","6.1.1 Animal Services","140 Other Municipal Revenues",0,-6000
+"6 Protective Services","6.2 By-law Enforcement","6.2.1 Bylaw Enforce & Property Stds","010 Personnel Costs",1951656,0
+"6 Protective Services","6.2 By-law Enforcement","6.2.1 Bylaw Enforce & Property Stds","040 Purchased Services",138152,0
+"6 Protective Services","6.2 By-law Enforcement","6.2.1 Bylaw Enforce & Property Stds","050 Materials & Supplies",21984,0
+"6 Protective Services","6.2 By-law Enforcement","6.2.1 Bylaw Enforce & Property Stds","060 Furniture & Equipment",122085,0
+"6 Protective Services","6.2 By-law Enforcement","6.2.1 Bylaw Enforce & Property Stds","130 User Fees",0,-1505257
+"6 Protective Services","6.3 Emergency & Security Mngt","6.3.1 Emergency  Management","010 Personnel Costs",174951,0
+"6 Protective Services","6.3 Emergency & Security Mngt","6.3.1 Emergency  Management","020 Administrative Expenses",10200,0
+"6 Protective Services","6.3 Emergency & Security Mngt","6.3.1 Emergency  Management","040 Purchased Services",38616,0
+"6 Protective Services","6.3 Emergency & Security Mngt","6.3.1 Emergency  Management","050 Materials & Supplies",4576,0
+"6 Protective Services","6.3 Emergency & Security Mngt","6.3.1 Emergency  Management","060 Furniture & Equipment",865,0
+"6 Protective Services","6.3 Emergency & Security Mngt","6.3.1 Emergency  Management","140 Other Municipal Revenues",0,-22576
+"6 Protective Services","6.3 Emergency & Security Mngt","6.3.2 Security  Management","010 Personnel Costs",522571,0
+"6 Protective Services","6.3 Emergency & Security Mngt","6.3.2 Security  Management","020 Administrative Expenses",10000,0
+"6 Protective Services","6.3 Emergency & Security Mngt","6.3.2 Security  Management","040 Purchased Services",600588,0
+"6 Protective Services","6.3 Emergency & Security Mngt","6.3.2 Security  Management","050 Materials & Supplies",1750,0
+"6 Protective Services","6.3 Emergency & Security Mngt","6.3.2 Security  Management","060 Furniture & Equipment",12983,0
+"6 Protective Services","6.3 Emergency & Security Mngt","6.3.2 Security  Management","090 Recovered Expenses",-62289,0
+"6 Protective Services","6.3 Emergency & Security Mngt","6.3.2 Security  Management","140 Other Municipal Revenues",0,-141520
+"6 Protective Services","6.4 Fire Services","6.4.2 Fire & Rescue Services","010 Personnel Costs",48324171,0
+"6 Protective Services","6.4 Fire Services","6.4.2 Fire & Rescue Services","020 Administrative Expenses",377951,0
+"6 Protective Services","6.4 Fire Services","6.4.2 Fire & Rescue Services","040 Purchased Services",496742,0
+"6 Protective Services","6.4 Fire Services","6.4.2 Fire & Rescue Services","050 Materials & Supplies",1278442,0
+"6 Protective Services","6.4 Fire Services","6.4.2 Fire & Rescue Services","060 Furniture & Equipment",200091,0
+"6 Protective Services","6.4 Fire Services","6.4.2 Fire & Rescue Services","130 User Fees",0,-198335
+"6 Protective Services","6.4 Fire Services","6.4.3 Fire Prevention & Education","010 Personnel Costs",2349491,0
+"6 Protective Services","6.4 Fire Services","6.4.3 Fire Prevention & Education","020 Administrative Expenses",915,0
+"6 Protective Services","6.4 Fire Services","6.4.3 Fire Prevention & Education","050 Materials & Supplies",79850,0
+"6 Protective Services","6.4 Fire Services","6.4.3 Fire Prevention & Education","060 Furniture & Equipment",47007,0
+"6 Protective Services","6.4 Fire Services","6.4.3 Fire Prevention & Education","130 User Fees",0,-140000
+"6 Protective Services","6.4 Fire Services","6.4.4 Specialized Rescue Services","020 Administrative Expenses",780,0
+"6 Protective Services","6.4 Fire Services","6.4.4 Specialized Rescue Services","050 Materials & Supplies",9400,0
+"6 Protective Services","6.4 Fire Services","6.4.4 Specialized Rescue Services","060 Furniture & Equipment",106503,0
+"6 Protective Services","6.5 Police Services","6.5.1 Police Services","010 Personnel Costs",86647717,0
+"6 Protective Services","6.5 Police Services","6.5.1 Police Services","020 Administrative Expenses",1072689,0
+"6 Protective Services","6.5 Police Services","6.5.1 Police Services","030 Financial Expenses",879402,0
+"6 Protective Services","6.5 Police Services","6.5.1 Police Services","040 Purchased Services",3847854,0
+"6 Protective Services","6.5 Police Services","6.5.1 Police Services","050 Materials & Supplies",3190034,0
+"6 Protective Services","6.5 Police Services","6.5.1 Police Services","060 Furniture & Equipment",400467,0
+"6 Protective Services","6.5 Police Services","6.5.1 Police Services","080 Other Expenses",1000,0
+"6 Protective Services","6.5 Police Services","6.5.1 Police Services","090 Recovered Expenses",-233080,0
+"6 Protective Services","6.5 Police Services","6.5.1 Police Services","120 Government Grants & Subsidies",0,-3779233
+"6 Protective Services","6.5 Police Services","6.5.1 Police Services","130 User Fees",0,-184863
+"6 Protective Services","6.5 Police Services","6.5.1 Police Services","140 Other Municipal Revenues",0,-2823534
+"7 Social & Health Services","7.1 Housing","7.1.1 Afford Housing Plng & Funding","010 Personnel Costs",67304,0
+"7 Social & Health Services","7.1 Housing","7.1.1 Afford Housing Plng & Funding","020 Administrative Expenses",500,0
+"7 Social & Health Services","7.1 Housing","7.1.1 Afford Housing Plng & Funding","040 Purchased Services",113460,0
+"7 Social & Health Services","7.1 Housing","7.1.1 Afford Housing Plng & Funding","140 Other Municipal Revenues",0,-113460
+"7 Social & Health Services","7.1 Housing","7.1.3 Social Housing Administration","010 Personnel Costs",1133140,0
+"7 Social & Health Services","7.1 Housing","7.1.3 Social Housing Administration","020 Administrative Expenses",21900,0
+"7 Social & Health Services","7.1 Housing","7.1.3 Social Housing Administration","040 Purchased Services",31116782,0
+"7 Social & Health Services","7.1 Housing","7.1.3 Social Housing Administration","050 Materials & Supplies",8200,0
+"7 Social & Health Services","7.1 Housing","7.1.3 Social Housing Administration","060 Furniture & Equipment",22500,0
+"7 Social & Health Services","7.1 Housing","7.1.3 Social Housing Administration","070 Transfers",37045,0
+"7 Social & Health Services","7.1 Housing","7.1.3 Social Housing Administration","120 Government Grants & Subsidies",0,-6774900
+"7 Social & Health Services","7.1 Housing","7.1.3 Social Housing Administration","140 Other Municipal Revenues",0,-4241710
+"7 Social & Health Services","7.2 Long Term Care","7.2.1 Adult Day Programs","010 Personnel Costs",247625,0
+"7 Social & Health Services","7.2 Long Term Care","7.2.1 Adult Day Programs","020 Administrative Expenses",75200,0
+"7 Social & Health Services","7.2 Long Term Care","7.2.1 Adult Day Programs","040 Purchased Services",50750,0
+"7 Social & Health Services","7.2 Long Term Care","7.2.1 Adult Day Programs","050 Materials & Supplies",27375,0
+"7 Social & Health Services","7.2 Long Term Care","7.2.1 Adult Day Programs","070 Transfers",138314,0
+"7 Social & Health Services","7.2 Long Term Care","7.2.1 Adult Day Programs","080 Other Expenses",35361,0
+"7 Social & Health Services","7.2 Long Term Care","7.2.1 Adult Day Programs","120 Government Grants & Subsidies",0,-402575
+"7 Social & Health Services","7.2 Long Term Care","7.2.1 Adult Day Programs","130 User Fees",0,-172050
+"7 Social & Health Services","7.2 Long Term Care","7.2.2 Long Term Care-Dearness Home","010 Personnel Costs",16738212,0
+"7 Social & Health Services","7.2 Long Term Care","7.2.2 Long Term Care-Dearness Home","020 Administrative Expenses",111013,0
+"7 Social & Health Services","7.2 Long Term Care","7.2.2 Long Term Care-Dearness Home","040 Purchased Services",315679,0
+"7 Social & Health Services","7.2 Long Term Care","7.2.2 Long Term Care-Dearness Home","050 Materials & Supplies",1948805,0
+"7 Social & Health Services","7.2 Long Term Care","7.2.2 Long Term Care-Dearness Home","060 Furniture & Equipment",96692,0
+"7 Social & Health Services","7.2 Long Term Care","7.2.2 Long Term Care-Dearness Home","070 Transfers",-138314,0
+"7 Social & Health Services","7.2 Long Term Care","7.2.2 Long Term Care-Dearness Home","080 Other Expenses",50000,0
+"7 Social & Health Services","7.2 Long Term Care","7.2.2 Long Term Care-Dearness Home","120 Government Grants & Subsidies",0,-9908843
+"7 Social & Health Services","7.2 Long Term Care","7.2.2 Long Term Care-Dearness Home","130 User Fees",0,-4924920
+"7 Social & Health Services","7.2 Long Term Care","7.2.2 Long Term Care-Dearness Home","140 Other Municipal Revenues",0,-45000
+"7 Social & Health Services","7.2 Long Term Care","7.2.3 Homemakers","010 Personnel Costs",29586,0
+"7 Social & Health Services","7.2 Long Term Care","7.2.3 Homemakers","040 Purchased Services",180000,0
+"7 Social & Health Services","7.2 Long Term Care","7.2.3 Homemakers","120 Government Grants & Subsidies",0,-144000
+"7 Social & Health Services","7.3 Primary Health Care Services","7.3.3 Land Ambulance","040 Purchased Services",10531011,0
+"7 Social & Health Services","7.3 Primary Health Care Services","7.3.4 Public Health","070 Transfers",6195059,0
+"7 Social & Health Services","7.4 Social & Comm Support Services","7.4.2 Homeless Supp & Emerg Shelters","040 Purchased Services",7384527,0
+"7 Social & Health Services","7.4 Social & Comm Support Services","7.4.2 Homeless Supp & Emerg Shelters","070 Transfers",285000,0
+"7 Social & Health Services","7.4 Social & Comm Support Services","7.4.2 Homeless Supp & Emerg Shelters","120 Government Grants & Subsidies",0,-6242145
+"7 Social & Health Services","7.4 Social & Comm Support Services","7.4.3 Substance Abuse (London CAReS)","040 Purchased Services",1250255,0
+"7 Social & Health Services","7.4 Social & Comm Support Services","7.4.3 Substance Abuse (London CAReS)","140 Other Municipal Revenues",0,-512500
+"7 Social & Health Services","7.4 Social & Comm Support Services","7.4.4 Immigration Services","020 Administrative Expenses",29950,0
+"7 Social & Health Services","7.4 Social & Comm Support Services","7.4.4 Immigration Services","040 Purchased Services",187200,0
+"7 Social & Health Services","7.4 Social & Comm Support Services","7.4.4 Immigration Services","050 Materials & Supplies",24850,0
+"7 Social & Health Services","7.4 Social & Comm Support Services","7.4.4 Immigration Services","120 Government Grants & Subsidies",0,-242000
+"7 Social & Health Services","7.4 Social & Comm Support Services","7.4.5 Subsidized Transit","040 Purchased Services",540576,0
+"7 Social & Health Services","7.4 Social & Comm Support Services","7.4.6 Ontario Works","010 Personnel Costs",17721412,0
+"7 Social & Health Services","7.4 Social & Comm Support Services","7.4.6 Ontario Works","020 Administrative Expenses",260177,0
+"7 Social & Health Services","7.4 Social & Comm Support Services","7.4.6 Ontario Works","040 Purchased Services",9057486,0
+"7 Social & Health Services","7.4 Social & Comm Support Services","7.4.6 Ontario Works","050 Materials & Supplies",302824,0
+"7 Social & Health Services","7.4 Social & Comm Support Services","7.4.6 Ontario Works","060 Furniture & Equipment",217929,0
+"7 Social & Health Services","7.4 Social & Comm Support Services","7.4.6 Ontario Works","070 Transfers",103904204,0
+"7 Social & Health Services","7.4 Social & Comm Support Services","7.4.6 Ontario Works","080 Other Expenses",-17725,0
+"7 Social & Health Services","7.4 Social & Comm Support Services","7.4.6 Ontario Works","120 Government Grants & Subsidies",0,-103309397
+"8 Transportation Services","8.1 Parking","8.1.1 Parking","010 Personnel Costs",1002320,0
+"8 Transportation Services","8.1 Parking","8.1.1 Parking","020 Administrative Expenses",9625,0
+"8 Transportation Services","8.1 Parking","8.1.1 Parking","030 Financial Expenses",88000,0
+"8 Transportation Services","8.1 Parking","8.1.1 Parking","040 Purchased Services",1225911,0
+"8 Transportation Services","8.1 Parking","8.1.1 Parking","050 Materials & Supplies",168412,0
+"8 Transportation Services","8.1 Parking","8.1.1 Parking","060 Furniture & Equipment",212418,0
+"8 Transportation Services","8.1 Parking","8.1.1 Parking","080 Other Expenses",2000,0
+"8 Transportation Services","8.1 Parking","8.1.1 Parking","130 User Fees",0,-4976400
+"8 Transportation Services","8.1 Parking","8.1.1 Parking","140 Other Municipal Revenues",0,-176000
+"8 Transportation Services","8.2 Public Transit","8.2.1 Transit -Conventional","070 Transfers",20918000,0
+"8 Transportation Services","8.2 Public Transit","8.2.2 Transit - Specialized","070 Transfers",3388000,0
+"8 Transportation Services","8.3 Roadways","8.3.2 Roadway Maintenance","010 Personnel Costs",6126733,0
+"8 Transportation Services","8.3 Roadways","8.3.2 Roadway Maintenance","020 Administrative Expenses",157559,0
+"8 Transportation Services","8.3 Roadways","8.3.2 Roadway Maintenance","040 Purchased Services",851082,0
+"8 Transportation Services","8.3 Roadways","8.3.2 Roadway Maintenance","050 Materials & Supplies",1521054,0
+"8 Transportation Services","8.3 Roadways","8.3.2 Roadway Maintenance","060 Furniture & Equipment",2815590,0
+"8 Transportation Services","8.3 Roadways","8.3.2 Roadway Maintenance","090 Recovered Expenses",-73000,0
+"8 Transportation Services","8.3 Roadways","8.3.2 Roadway Maintenance","120 Government Grants & Subsidies",0,-90000
+"8 Transportation Services","8.3 Roadways","8.3.2 Roadway Maintenance","130 User Fees",0,-242000
+"8 Transportation Services","8.3 Roadways","8.3.2 Roadway Maintenance","140 Other Municipal Revenues",0,-2550290
+"8 Transportation Services","8.3 Roadways","8.3.3 Roadway Planning & Design","010 Personnel Costs",3035180,0
+"8 Transportation Services","8.3 Roadways","8.3.3 Roadway Planning & Design","020 Administrative Expenses",24070,0
+"8 Transportation Services","8.3 Roadways","8.3.3 Roadway Planning & Design","040 Purchased Services",187718,0
+"8 Transportation Services","8.3 Roadways","8.3.3 Roadway Planning & Design","050 Materials & Supplies",11567,0
+"8 Transportation Services","8.3 Roadways","8.3.3 Roadway Planning & Design","060 Furniture & Equipment",47635,0
+"8 Transportation Services","8.3 Roadways","8.3.3 Roadway Planning & Design","090 Recovered Expenses",-619164,0
+"8 Transportation Services","8.3 Roadways","8.3.3 Roadway Planning & Design","130 User Fees",0,-225000
+"8 Transportation Services","8.3 Roadways","8.3.3 Roadway Planning & Design","140 Other Municipal Revenues",0,-776808
+"8 Transportation Services","8.3 Roadways","8.3.4 Snow Control","010 Personnel Costs",4028379,0
+"8 Transportation Services","8.3 Roadways","8.3.4 Snow Control","020 Administrative Expenses",7000,0
+"8 Transportation Services","8.3 Roadways","8.3.4 Snow Control","040 Purchased Services",90000,0
+"8 Transportation Services","8.3 Roadways","8.3.4 Snow Control","050 Materials & Supplies",2676400,0
+"8 Transportation Services","8.3 Roadways","8.3.4 Snow Control","060 Furniture & Equipment",5248201,0
+"8 Transportation Services","8.3 Roadways","8.3.4 Snow Control","080 Other Expenses",22000,0
+"8 Transportation Services","8.3 Roadways","8.3.4 Snow Control","090 Recovered Expenses",-127000,0
+"8 Transportation Services","8.3 Roadways","8.3.4 Snow Control","130 User Fees",0,-352804
+"8 Transportation Services","8.3 Roadways","8.3.5 Traffic Control & Lighting","010 Personnel Costs",1834957,0
+"8 Transportation Services","8.3 Roadways","8.3.5 Traffic Control & Lighting","020 Administrative Expenses",12150,0
+"8 Transportation Services","8.3 Roadways","8.3.5 Traffic Control & Lighting","030 Financial Expenses",20000,0
+"8 Transportation Services","8.3 Roadways","8.3.5 Traffic Control & Lighting","040 Purchased Services",4597478,0
+"8 Transportation Services","8.3 Roadways","8.3.5 Traffic Control & Lighting","050 Materials & Supplies",3928325,0
+"8 Transportation Services","8.3 Roadways","8.3.5 Traffic Control & Lighting","060 Furniture & Equipment",304542,0
+"8 Transportation Services","8.3 Roadways","8.3.5 Traffic Control & Lighting","090 Recovered Expenses",-80000,0
+"8 Transportation Services","8.3 Roadways","8.3.5 Traffic Control & Lighting","130 User Fees",0,-35000
+"8 Transportation Services","8.3 Roadways","8.3.5 Traffic Control & Lighting","140 Other Municipal Revenues",0,-300000
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.1 Administrative Services","010 Personnel Costs",1228227,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.1 Administrative Services","020 Administrative Expenses",457000,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.1 Administrative Services","030 Financial Expenses",135000,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.1 Administrative Services","040 Purchased Services",600911,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.1 Administrative Services","050 Materials & Supplies",18000,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.1 Administrative Services","060 Furniture & Equipment",47447,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.1 Administrative Services","070 Transfers",124000,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.1 Administrative Services","130 User Fees",0,-142300
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.1 Administrative Services","140 Other Municipal Revenues",0,-25000
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.2 Asset Management","010 Personnel Costs",611065,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.2 Asset Management","020 Administrative Expenses",25033,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.2 Asset Management","040 Purchased Services",1095400,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.2 Asset Management","050 Materials & Supplies",1261,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.2 Asset Management","060 Furniture & Equipment",3340,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.3 Dispatch","010 Personnel Costs",680285,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.3 Dispatch","020 Administrative Expenses",3550,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.3 Dispatch","040 Purchased Services",55000,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.3 Dispatch","050 Materials & Supplies",2625,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.3 Dispatch","060 Furniture & Equipment",106773,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.3 Dispatch","090 Recovered Expenses",-122183,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.3 Dispatch","140 Other Municipal Revenues",0,-158294
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.4 Energy Conservation","010 Personnel Costs",156664,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.4 Energy Conservation","020 Administrative Expenses",1250,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.4 Energy Conservation","040 Purchased Services",8600,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.4 Energy Conservation","050 Materials & Supplies",24000,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.4 Energy Conservation","060 Furniture & Equipment",6350,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.5 Facilities","010 Personnel Costs",5029979,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.5 Facilities","020 Administrative Expenses",71152,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.5 Facilities","040 Purchased Services",2677012,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.5 Facilities","050 Materials & Supplies",5102851,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.5 Facilities","060 Furniture & Equipment",335185,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.5 Facilities","080 Other Expenses",10300,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.5 Facilities","090 Recovered Expenses",-406502,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.5 Facilities","130 User Fees",0,-28000
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.5 Facilities","140 Other Municipal Revenues",0,-288083
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.7 Fleet Management","010 Personnel Costs",4327547,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.7 Fleet Management","020 Administrative Expenses",68550,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.7 Fleet Management","030 Financial Expenses",4147255,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.7 Fleet Management","040 Purchased Services",977030,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.7 Fleet Management","050 Materials & Supplies",4614711,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.7 Fleet Management","060 Furniture & Equipment",270917,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.7 Fleet Management","080 Other Expenses",35000,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.7 Fleet Management","090 Recovered Expenses",-14441010,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.8 Graphics,Surveying & Tech Serv","010 Personnel Costs",1091082,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.8 Graphics,Surveying & Tech Serv","020 Administrative Expenses",1275,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.8 Graphics,Surveying & Tech Serv","040 Purchased Services",45250,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.8 Graphics,Surveying & Tech Serv","050 Materials & Supplies",7680,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.8 Graphics,Surveying & Tech Serv","060 Furniture & Equipment",28716,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.8 Graphics,Surveying & Tech Serv","090 Recovered Expenses",-355274,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.8 Graphics,Surveying & Tech Serv","130 User Fees",0,-2500
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.9 Human Resources","010 Personnel Costs",3422982,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.9 Human Resources","020 Administrative Expenses",942089,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.9 Human Resources","040 Purchased Services",779659,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.9 Human Resources","050 Materials & Supplies",53526,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.9 Human Resources","060 Furniture & Equipment",41445,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.9 Human Resources","090 Recovered Expenses",-8763,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.9 Human Resources","130 User Fees",0,-2500
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.9 Human Resources","140 Other Municipal Revenues",0,-736966
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.11 Legal Services","010 Personnel Costs",1983592,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.11 Legal Services","020 Administrative Expenses",50893,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.11 Legal Services","040 Purchased Services",429563,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.11 Legal Services","050 Materials & Supplies",50017,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.11 Legal Services","060 Furniture & Equipment",18932,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.11 Legal Services","140 Other Municipal Revenues",0,-15170
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.12 Payroll","010 Personnel Costs",1483415,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.12 Payroll","020 Administrative Expenses",20744,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.12 Payroll","040 Purchased Services",810,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.12 Payroll","050 Materials & Supplies",20345,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.12 Payroll","140 Other Municipal Revenues",0,-196952
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.13 Purchasing","010 Personnel Costs",1157128,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.13 Purchasing","020 Administrative Expenses",20350,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.13 Purchasing","040 Purchased Services",660,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.13 Purchasing","050 Materials & Supplies",9710,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.13 Purchasing","060 Furniture & Equipment",9904,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.13 Purchasing","130 User Fees",0,-15000
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.13 Purchasing","140 Other Municipal Revenues",0,-205317
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.14 Realty Services","010 Personnel Costs",659969,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.14 Realty Services","020 Administrative Expenses",24680,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.14 Realty Services","030 Financial Expenses",195000,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.14 Realty Services","040 Purchased Services",91000,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.14 Realty Services","050 Materials & Supplies",10600,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.14 Realty Services","060 Furniture & Equipment",1500,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.14 Realty Services","130 User Fees",0,-860537
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.15 Risk Management","010 Personnel Costs",337790,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.15 Risk Management","020 Administrative Expenses",23985,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.15 Risk Management","040 Purchased Services",30295,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.15 Risk Management","050 Materials & Supplies",3400,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.15 Risk Management","060 Furniture & Equipment",2970,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.15 Risk Management","130 User Fees",0,-4500
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.15 Risk Management","140 Other Municipal Revenues",0,-97003
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.16 Technology Services","010 Personnel Costs",8285161,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.16 Technology Services","020 Administrative Expenses",308200,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.16 Technology Services","040 Purchased Services",5318026,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.16 Technology Services","050 Materials & Supplies",277200,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.16 Technology Services","060 Furniture & Equipment",3472915,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.16 Technology Services","090 Recovered Expenses",-629216,0
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.16 Technology Services","130 User Fees",0,-7000
+"10 Corporate, Oper & Council Serv","10.1 Corporate Services","10.1.16 Technology Services","140 Other Municipal Revenues",0,-512184
+"10 Corporate, Oper & Council Serv","10.2 Corporate Planning &  Admin","10.2.1 Corporate Management","010 Personnel Costs",2408900,0
+"10 Corporate, Oper & Council Serv","10.2 Corporate Planning &  Admin","10.2.1 Corporate Management","020 Administrative Expenses",245720,0
+"10 Corporate, Oper & Council Serv","10.2 Corporate Planning &  Admin","10.2.1 Corporate Management","040 Purchased Services",311714,0
+"10 Corporate, Oper & Council Serv","10.2 Corporate Planning &  Admin","10.2.1 Corporate Management","050 Materials & Supplies",23570,0
+"10 Corporate, Oper & Council Serv","10.2 Corporate Planning &  Admin","10.2.1 Corporate Management","060 Furniture & Equipment",7495,0
+"10 Corporate, Oper & Council Serv","10.2 Corporate Planning &  Admin","10.2.1 Corporate Management","070 Transfers",50000,0
+"10 Corporate, Oper & Council Serv","10.2 Corporate Planning &  Admin","10.2.1 Corporate Management","120 Government Grants & Subsidies",0,-154155
+"10 Corporate, Oper & Council Serv","10.2 Corporate Planning &  Admin","10.2.1 Corporate Management","140 Other Municipal Revenues",0,-1073307
+"10 Corporate, Oper & Council Serv","10.2 Corporate Planning &  Admin","10.2.2 Governmental Liaison","010 Personnel Costs",255805,0
+"10 Corporate, Oper & Council Serv","10.2 Corporate Planning &  Admin","10.2.2 Governmental Liaison","020 Administrative Expenses",27750,0
+"10 Corporate, Oper & Council Serv","10.2 Corporate Planning &  Admin","10.2.2 Governmental Liaison","040 Purchased Services",600,0
+"10 Corporate, Oper & Council Serv","10.2 Corporate Planning &  Admin","10.2.2 Governmental Liaison","050 Materials & Supplies",500,0
+"10 Corporate, Oper & Council Serv","10.2 Corporate Planning &  Admin","10.2.3 Information & Archive Mngt","010 Personnel Costs",509563,0
+"10 Corporate, Oper & Council Serv","10.2 Corporate Planning &  Admin","10.2.3 Information & Archive Mngt","020 Administrative Expenses",500,0
+"10 Corporate, Oper & Council Serv","10.2 Corporate Planning &  Admin","10.2.3 Information & Archive Mngt","040 Purchased Services",63000,0
+"10 Corporate, Oper & Council Serv","10.2 Corporate Planning &  Admin","10.2.3 Information & Archive Mngt","050 Materials & Supplies",500,0
+"10 Corporate, Oper & Council Serv","10.2 Corporate Planning &  Admin","10.2.3 Information & Archive Mngt","130 User Fees",0,-5000
+"10 Corporate, Oper & Council Serv","10.3 Council Services","10.3.1 Advisory Committees","020 Administrative Expenses",8000,0
+"10 Corporate, Oper & Council Serv","10.3 Council Services","10.3.1 Advisory Committees","040 Purchased Services",101164,0
+"10 Corporate, Oper & Council Serv","10.3 Council Services","10.3.1 Advisory Committees","090 Recovered Expenses",-13539,0
+"10 Corporate, Oper & Council Serv","10.3 Council Services","10.3.2 Audit","040 Purchased Services",300000,0
+"10 Corporate, Oper & Council Serv","10.3 Council Services","10.3.3 Councillors’ Offices","010 Personnel Costs",927127,0
+"10 Corporate, Oper & Council Serv","10.3 Council Services","10.3.3 Councillors’ Offices","020 Administrative Expenses",89000,0
+"10 Corporate, Oper & Council Serv","10.3 Council Services","10.3.3 Councillors’ Offices","040 Purchased Services",101000,0
+"10 Corporate, Oper & Council Serv","10.3 Council Services","10.3.3 Councillors’ Offices","050 Materials & Supplies",127000,0
+"10 Corporate, Oper & Council Serv","10.3 Council Services","10.3.3 Councillors’ Offices","060 Furniture & Equipment",10600,0
+"10 Corporate, Oper & Council Serv","10.3 Council Services","10.3.3 Councillors’ Offices","140 Other Municipal Revenues",0,-1000
+"10 Corporate, Oper & Council Serv","10.3 Council Services","10.3.4 Mayor’s Office","010 Personnel Costs",367418,0
+"10 Corporate, Oper & Council Serv","10.3 Council Services","10.3.4 Mayor’s Office","020 Administrative Expenses",24400,0
+"10 Corporate, Oper & Council Serv","10.3 Council Services","10.3.4 Mayor’s Office","040 Purchased Services",53390,0
+"10 Corporate, Oper & Council Serv","10.3 Council Services","10.3.4 Mayor’s Office","050 Materials & Supplies",12000,0
+"10 Corporate, Oper & Council Serv","10.3 Council Services","10.3.4 Mayor’s Office","060 Furniture & Equipment",5000,0
+"10 Corporate, Oper & Council Serv","10.3 Council Services","10.3.5 Municipal Election","020 Administrative Expenses",1892,0
+"10 Corporate, Oper & Council Serv","10.3 Council Services","10.3.6 Secretariat Support-City Clerk","010 Personnel Costs",858264,0
+"10 Corporate, Oper & Council Serv","10.3 Council Services","10.3.6 Secretariat Support-City Clerk","020 Administrative Expenses",56515,0
+"10 Corporate, Oper & Council Serv","10.3 Council Services","10.3.6 Secretariat Support-City Clerk","040 Purchased Services",61220,0
+"10 Corporate, Oper & Council Serv","10.3 Council Services","10.3.6 Secretariat Support-City Clerk","050 Materials & Supplies",55956,0
+"10 Corporate, Oper & Council Serv","10.3 Council Services","10.3.6 Secretariat Support-City Clerk","060 Furniture & Equipment",1765,0
+"10 Corporate, Oper & Council Serv","10.3 Council Services","10.3.6 Secretariat Support-City Clerk","070 Transfers",4000,0
+"10 Corporate, Oper & Council Serv","10.3 Council Services","10.3.6 Secretariat Support-City Clerk","090 Recovered Expenses",-28500,0
+"10 Corporate, Oper & Council Serv","10.3 Council Services","10.3.6 Secretariat Support-City Clerk","140 Other Municipal Revenues",0,-28478
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.1 Capital Costs & Contingencies","010 Personnel Costs",9592345,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.1 Capital Costs & Contingencies","020 Administrative Expenses",250000,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.1 Capital Costs & Contingencies","030 Financial Expenses",92073856,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.1 Capital Costs & Contingencies","040 Purchased Services",6737206,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.1 Capital Costs & Contingencies","080 Other Expenses",18000,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.2 Corporate Revenues","030 Financial Expenses",420000,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.2 Corporate Revenues","090 Recovered Expenses",-75000,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.2 Corporate Revenues","100 Taxes Levied",0,-462725157
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.2 Corporate Revenues","110 Other Taxation",0,-14427529
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.2 Corporate Revenues","120 Government Grants & Subsidies",0,-918000
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.2 Corporate Revenues","130 User Fees",0,-500000
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.2 Corporate Revenues","140 Other Municipal Revenues",0,-20414043
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.3 Financial Planning & Reporting","010 Personnel Costs",1120750,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.3 Financial Planning & Reporting","020 Administrative Expenses",16300,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.3 Financial Planning & Reporting","040 Purchased Services",9400,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.3 Financial Planning & Reporting","050 Materials & Supplies",10015,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.3 Financial Planning & Reporting","060 Furniture & Equipment",2800,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.3 Financial Planning & Reporting","140 Other Municipal Revenues",0,-272458
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.4 Financial Services","010 Personnel Costs",2551107,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.4 Financial Services","020 Administrative Expenses",53218,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.4 Financial Services","040 Purchased Services",59370,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.4 Financial Services","050 Materials & Supplies",28093,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.4 Financial Services","060 Furniture & Equipment",26400,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.4 Financial Services","090 Recovered Expenses",-468683,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.4 Financial Services","130 User Fees",0,-27430
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.4 Financial Services","140 Other Municipal Revenues",0,-273249
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.5 Bus. Plan. & Cont. Improvement","010 Personnel Costs",617797,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.5 Bus. Plan. & Cont. Improvement","020 Administrative Expenses",16500,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.5 Bus. Plan. & Cont. Improvement","040 Purchased Services",1000,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.5 Bus. Plan. & Cont. Improvement","050 Materials & Supplies",4000,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.5 Bus. Plan. & Cont. Improvement","060 Furniture & Equipment",2000,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.5 Bus. Plan. & Cont. Improvement","140 Other Municipal Revenues",0,-38491
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.6 Finance/CS-Fin & Business Serv","010 Personnel Costs",1753506,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.6 Finance/CS-Fin & Business Serv","020 Administrative Expenses",29775,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.6 Finance/CS-Fin & Business Serv","030 Financial Expenses",5925,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.6 Finance/CS-Fin & Business Serv","040 Purchased Services",6333,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.6 Finance/CS-Fin & Business Serv","050 Materials & Supplies",51040,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.6 Finance/CS-Fin & Business Serv","060 Furniture & Equipment",4000,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.6 Finance/CS-Fin & Business Serv","120 Government Grants & Subsidies",0,-851932
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.7 Finance/PEESD","010 Personnel Costs",747061,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.7 Finance/PEESD","020 Administrative Expenses",2500,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.7 Finance/PEESD","050 Materials & Supplies",1500,0
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.7 Finance/PEESD","130 User Fees",0,-20000
+"10 Corporate, Oper & Council Serv","10.4 Financial Management","10.4.7 Finance/PEESD","140 Other Municipal Revenues",0,-316975
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.1 Administration of Justice","010 Personnel Costs",1027357,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.1 Administration of Justice","020 Administrative Expenses",5150,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.1 Administration of Justice","030 Financial Expenses",330950,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.1 Administration of Justice","040 Purchased Services",1586025,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.1 Administration of Justice","050 Materials & Supplies",82800,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.1 Administration of Justice","060 Furniture & Equipment",38795,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.1 Administration of Justice","070 Transfers",320000,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.1 Administration of Justice","080 Other Expenses",40000,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.1 Administration of Justice","140 Other Municipal Revenues",0,-5475000
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.2 Taxation","010 Personnel Costs",1585563,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.2 Taxation","020 Administrative Expenses",24962,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.2 Taxation","030 Financial Expenses",66500,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.2 Taxation","040 Purchased Services",21360,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.2 Taxation","050 Materials & Supplies",67000,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.2 Taxation","130 User Fees",0,-1036930
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.2 Taxation","140 Other Municipal Revenues",0,-250602
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.3 Corporate Communications","010 Personnel Costs",722156,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.3 Corporate Communications","020 Administrative Expenses",6700,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.3 Corporate Communications","040 Purchased Services",179658,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.3 Corporate Communications","050 Materials & Supplies",900,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.3 Corporate Communications","140 Other Municipal Revenues",0,-105000
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.4 Customer Relations","010 Personnel Costs",976438,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.4 Customer Relations","020 Administrative Expenses",450,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.4 Customer Relations","040 Purchased Services",75450,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.4 Customer Relations","050 Materials & Supplies",764548,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.4 Customer Relations","060 Furniture & Equipment",19705,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.4 Customer Relations","090 Recovered Expenses",-26000,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.4 Customer Relations","130 User Fees",0,-46250
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.4 Customer Relations","140 Other Municipal Revenues",0,-71046
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.5 Licensing & Certificates","010 Personnel Costs",321920,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.5 Licensing & Certificates","020 Administrative Expenses",50,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.5 Licensing & Certificates","030 Financial Expenses",4000,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.5 Licensing & Certificates","040 Purchased Services",4500,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.5 Licensing & Certificates","050 Materials & Supplies",68344,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.5 Licensing & Certificates","060 Furniture & Equipment",32000,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.5 Licensing & Certificates","130 User Fees",0,-771740
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.6 City Hall Cafeteria","010 Personnel Costs",262238,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.6 City Hall Cafeteria","020 Administrative Expenses",800,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.6 City Hall Cafeteria","030 Financial Expenses",500,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.6 City Hall Cafeteria","040 Purchased Services",5000,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.6 City Hall Cafeteria","050 Materials & Supplies",146800,0
+"10 Corporate, Oper & Council Serv","10.5 Public Support Services","10.5.6 City Hall Cafeteria","140 Other Municipal Revenues",0,-318000

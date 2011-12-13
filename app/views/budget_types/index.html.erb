@@ -1,0 +1,23 @@
+<h1>Listing budget_types</h1>
+
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @budget_types.each do |budget_type| %>
+  <tr>
+    <td><%= budget_type.name %></td>
+    <td><%= link_to 'Show', budget_type %></td>
+    <td><%= link_to 'Edit', edit_budget_type_path(budget_type) %></td>
+    <td><%= link_to 'Destroy', budget_type, confirm: 'Are you sure?', method: :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Budget type', new_budget_type_path %>

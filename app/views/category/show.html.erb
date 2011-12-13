@@ -1,14 +1,14 @@
-<%= render :partial => 'chart', :locals => {:type => 'expenditure', :whatdiv => 'expense_chart', :title => raw(@category.sanitize_name) + " Expenditure" , :points => @category.children }-%>
-<%= render :partial => 'chart', :locals => {:type => 'revenue', :whatdiv => 'revenue_chart', :title => raw(@category.sanitize_name) + " Revenue", :points => @category.children }-%>
-<%= render :partial => 'chart', :locals => {:type => 'total', :whatdiv => 'total_chart', :title => raw(@category.sanitize_name) + " Totals", :points => @category }-%>
+<%= render :partial => 'chart', :locals => {:type => 'expenditure', :whatdiv => 'expense_chart', :title => Budget.find(@category.budget_id).year.to_s + " " + BudgetType.find(Budget.find(@category.budget_id).budget_types_id).name + " - Expenditure Chart" , :points => @category.children }-%>
+<%= render :partial => 'chart', :locals => {:type => 'revenue', :whatdiv => 'revenue_chart', :title => Budget.find(@category.budget_id).year.to_s + " " + BudgetType.find(Budget.find(@category.budget_id).budget_types_id).name +  " - Revenue Chart", :points => @category.children }-%>
+<%= render :partial => 'chart', :locals => {:type => 'total', :whatdiv => 'total_chart', :title => Budget.find(@category.budget_id).year.to_s + " " + BudgetType.find(Budget.find(@category.budget_id).budget_types_id).name +  " - Totals Chart", :points => @category }-%>
 
 <div class="chart" id="expense_chart"></div>
 <div class="chart" id="revenue_chart"></div>
 <div class="chart" id="total_chart"> </div>
 
-<a id="expense">Show Expense Chart</a>
-<a id="revenue">Show Revenue Chart</a>
-<a id="total">Show Category Totals Chart</a>
+    <a href="#" id="expense">Show Expense Chart</a>|
+    <a href="#" id="revenue">Show Revenue Chart</a>|
+    <a href="#" id="total">Show Category Totals Chart</a>
 
 
 <table id="budget_items">
@@ -36,5 +36,10 @@
     </tr>
 
   <% end -%>
+</table>
+<div style=margin-top:15px;margin-left:200px;>
+
+<%= link_to "Back to Visualizing Databases Home", budget_index_path %>
+
 </div>
 

@@ -10,13 +10,13 @@ class BudgetController < ApplicationController
       file.write(uploaded_io.read.force_encoding('utf-8'))
     end
 
-    @budget = Budget.new(:name => params[:budget][:name], :year => params[:budget][:year], :filename => uploaded_io.original_filename)
+    @budget = Budget.new(:budget_types_id => params[:budget][:budget_type].to_i, :year =>params[:budget][:year].to_i, :filename => uploaded_io.original_filename)
     @budget.save
     c = Category.create_if_not_exists(@budget.filename, nil, @budget.id)
     c.save
 
     c.import_csv(@budget.filename)
-    @budget.category = c
+    @budget.category_id = c.id
 
     if @budget.save
       #save the budget to the database
@@ -34,9 +34,6 @@ class BudgetController < ApplicationController
 
   def show
     @budget = Budget.find(params[:id])
-    #@points = @budget.category.children
-    #@points = [4,5,6,7,8,9,10]
-    #@second = [1,2,45,3]
     redirect_to @budget.category
   end
 

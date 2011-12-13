@@ -1,4 +1,9 @@
 Londonbudgetapp::Application.routes.draw do
+  resources :budget_types
+
+  match "/contact_us", :to => "static_pages#contact_us"
+  root :to => "budget#index"
+
   resources :feedbacks do
     resources :feedback_items, :collection => { :sort => :rank}
       resources :topics

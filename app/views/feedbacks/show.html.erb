@@ -1,15 +1,84 @@
-<h2>Thankyou For Your Feedback</h2>
-<ul>
-  <% for item in @feedback.feedback_items.sort_by{|e| e[:position]} do %>
-    <%= content_tag_for :li, item do %>
-      <div>
-        <%= item.topic.name %>
-        <%= item.percentage %>%
-      </div>
-    <% end -%>
-  <% end %>
-  <b>Comment:</b>
-  <%= @feedback.comment %>
+<h2>Thank You For Your Feedback</h2>
 
-</ul>
-<%= link_to('Return to Budget Home', '#') %>
+<h3 class="add_cuts_feedback">This is what you wrote:</h3>
+<table id="add_cuts_items">
+<tr>
+        <th>Your Priority</th>
+        <th>Service Program</th>
+        <th>Percentage Increase/Decrease in Your Taxes You Would Devote</th>
+</tr>
+  <% for item in @feedback.feedback_items.sort_by{|e| e[:position]} do %>
+         <tr class="<%= cycle("even", "odd") %>">
+                <td><%= item.position %> </td>
+                <td><%= item.topic.name %></td>
+                <td><%= item.percentage %>%</td>
+      </tr>
+    <% end -%>
+
+  </table>
+  <h3 class="add_cuts_feedback">Comment:</h3>
+  <p style=margin-left:50px><%= @feedback.comment %></p>
+<p></p>
+<p></p>
+<h2>This is what the city is proposing for 2012 (In alphabetical order)</h2>
+
+<table id="add_cuts_items">
+<tr>
+        <th>Service Program</th>
+        <th>2012 Funding Request (000's)</th>
+        <th>Impact on 2012 Property Tax Levy</th>
+</tr>
+<tr class="even">
+        <td>Culture</td>
+        <td>$164</td>
+        <td>0.0%</td>
+</tr>
+<tr>
+        <td>Economic Prosperity</td>
+        <td>$0</td>
+        <td>0.0%</td>
+</tr>
+<tr class="even">
+        <td>Environmental Services</td>
+        <td>$0</td>
+        <td>0.0%</td>
+</tr>
+<tr>
+        <td>Parks, Recreation & Neighbourhood Services</td>
+        <td>$3,244</td>
+        <td>0.7%</td>
+</tr>
+<tr class="even">
+        <td>Planning & Development Services</td>
+        <td>$400</td>
+        <td>0.1%</td>
+</tr>
+<tr>
+        <td>Protective Services</td>
+        <td>-$1080</td>
+        <td>-0.2%</td>
+</tr>
+<tr class="even">
+        <td>Social and Health Services</td>
+        <td>$5000</td>
+        <td>1.1%</td>
+</tr>
+<tr>
+        <td>Transportation Services</td>
+        <td>$1875</td>
+        <td>0.4%</td>
+</tr>
+<tr class="even">
+        <td>Corporate, Operational & Council Services</td>
+        <td>$1455</td>
+        <td>0.3%</td>
+</tr>
+<tr>
+        <td>Outside Agencies</td>
+        <td>$150</td>
+        <td>0.0%</td>
+</tr>
+</table>
+<p></p>
+<h2>For further reading, check out the full <%= link_to("2012 Adds and Cuts List","http://www.london.ca/budget/Budget_2012/Adds_and_Cuts_List.pdf")%></h2>
+<center><%= link_to('Return to Budget Home', root_path) %></center>

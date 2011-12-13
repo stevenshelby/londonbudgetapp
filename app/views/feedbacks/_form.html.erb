@@ -7,7 +7,7 @@
     <div>
     <span class="handle"><%= image_tag('updown.png', :height => '35' ) %></span>
       <ul class="stopit">
-        <%= fi.input :position, :as => :hidden%>
+        <%= fi.input :position, :as => :hidden, :input_html => {:class => "sortme"} %>
       <%= fi.input :topic_id, :as => :hidden %>
       <%= fi.semantic_fields_for :topic do |topic| %>
         <%= topic.input :name, :label => false, :input_html => {:class => 'readonly', :readonly => true} %>

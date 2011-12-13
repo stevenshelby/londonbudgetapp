@@ -5,3 +5,23 @@
 #formwrapper {
   margin-left: 130px;
 }
+
+.add_cuts_feedback {
+  margin-left: 50px;
+}
+
+#add_cuts_items {
+  margin-left: 50px;
+  width: 650px;
+  padding-left: 5%;
+  padding-right: 5%;
+  border-color: black;
+  border-style: solid;
+  text-align: center;
+  th {
+    text-decoration: underline;
+  }
+  .even {
+    background-color: #999;
+  }
+}

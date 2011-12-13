@@ -26,7 +26,7 @@ class FeedbacksController < ApplicationController
   def new
     @feedback = Feedback.new
     @topics = Topic.all.shuffle
-    @p_range = -25..25
+    @p_range = -5..5
     priority = 0
     for topic in @topics do
         priority = priority + 1

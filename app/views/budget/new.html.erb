@@ -1,11 +1,12 @@
 <div id="new_budget">
+
   <%= form_for @budget, :multipart=>true, :url => {:controller => :budget,  :action => :create} do |f| -%>
-    <p><%= f.label :name %>
-    <%= f.text_field :name %>
+    <p>
+    <%=  select("budget", "budget_type", BudgetType.all.collect {|p| [ p.name, p.id ] }, {:include_blank => false}) %>
     </p>
     <p>
     <%= f.label :year %>
-    <%= f.date_select(:year, :start_year => 2011, :discard_day => true, :discard_month => true) %>
+    <%= select_year(2012, :start_year => 2006, :end_year => 2015, :field_name => 'year', :prefix => 'budget') %>
     </p>
     <%= f.file_field 'upload' %>
     <%= f.submit %>
