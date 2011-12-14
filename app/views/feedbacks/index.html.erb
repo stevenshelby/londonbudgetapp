@@ -1,23 +1,42 @@
-<h1>Listing feedbacks</h1>
+<center><h1>Feedback Summary</h1></center>
+
+<b>Total feedbacks received: <%= @feedbacks.length %></b>
+
+<table>
+  <tr>
+    <th>Add / Cut Category</th>
+    <th>Average Priority (Lower Number is Better)</th>
+    <th>Average Percentage Add/Cut</th>
+  </tr>
+<% for item in @topicstats.sort -%>
+  <tr>
+    <td> <%= Topic.find(item[2]).name %></td>
+    <td> <%= item[0] %> <!-- priority --> </td>
+    <td><%= item[1] %> <!-- percentage --></td>
+  </tr>
+<% end -%>
+</table>
 
 <table>
   <tr>
     <th>Comment</th>
     <th></th>
     <th></th>
-    <th></th>
   </tr>
 
 <% @feedbacks.each do |feedback| %>
   <tr>
-    <td><%= feedback.comment %></td>
-    <td><%= link_to 'Show', feedback %></td>
-    <td><%= link_to 'Edit', edit_feedback_path(feedback) %></td>
-    <td><%= link_to 'Destroy', feedback, confirm: 'Are you sure?', method: :delete %></td>
+    <td style=width:200px>
+    <% unless feedback.comment.blank? %>
+      <%= feedback.comment %>
+    <% else %>
+       [Blank]
+    <% end %>
+   </td>
+    <td><%= link_to 'Show Full Details', feedback %></td>
   </tr>
 <% end %>
 </table>
 
 <br />
 
-<%= link_to 'New Feedback', new_feedback_path %>

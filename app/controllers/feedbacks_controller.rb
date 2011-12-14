@@ -3,6 +3,15 @@ class FeedbacksController < ApplicationController
   # GET /feedbacks.json
   def index
     @feedbacks = Feedback.all
+    @topics = Topic.all
+
+    for topic in @topics
+      if @topicstats
+        @topicstats = @topicstats + [[FeedbackItem.where(:topic_id => topic.id).sum(:position).to_f / @feedbacks.length,  FeedbackItem.where(:topic_id => topic.id).sum(:percentage).to_f / @feedbacks.length, topic.id]]
+      else
+         @topicstats = [[FeedbackItem.where(:topic_id => topic.id).sum(:position).to_f / @feedbacks.length,  FeedbackItem.where(:topic_id => topic.id).sum(:percentage).to_f / @feedbacks.length, topic.id]]
+      end    
+    end
 
     respond_to do |format|
       format.html # index.html.erb

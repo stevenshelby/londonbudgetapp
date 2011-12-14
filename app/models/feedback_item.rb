@@ -3,5 +3,5 @@ class FeedbackItem < ActiveRecord::Base
   belongs_to :feedback
   accepts_nested_attributes_for :topic
 
-  acts_as_list
+  #acts_as_list
 end
