@@ -1,4 +1,6 @@
 class FeedbacksController < ApplicationController
+  before_filter :authenticate_admin!, :except => [:new,:create,:show]
+
   # GET /feedbacks
   # GET /feedbacks.json
   def index

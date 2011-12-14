@@ -1,4 +1,6 @@
 Londonbudgetapp::Application.routes.draw do
+  devise_for :admins
+
   resources :budget_types
 
   match "/contact_us", :to => "static_pages#contact_us"

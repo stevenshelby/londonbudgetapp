@@ -1,4 +1,6 @@
 class BudgetController < ApplicationController
+  before_filter :authenticate_admin!, :except => [:show,:index]
+
   def new
     @budget = Budget.new
   end

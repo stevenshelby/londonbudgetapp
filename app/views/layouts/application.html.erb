@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Londonbudgetapp</title>
+  <title>London Budget 2012</title>
   <%= stylesheet_link_tag    "application" %>
   <%= javascript_include_tag "application" %>
   <%= javascript_include_tag "highcharts" %>
@@ -9,6 +9,13 @@
 
 </head>
 <body>
+  <% if admin_signed_in? %>
+    
+  <div id="adminsession">
+    You are logged in as an ADMINISTRATOR! - <%= link_to "CHECK ADDS & CUTS SUMMARY", 'feedbacks#index' %> - <%= link_to "Log Out", destroy_admin_session_path, :method => :delete  %>
+  </div>
+
+  <% end -%>
   <div id="main">
     <div id="wrapper">
      <%= render :partial => "header" %>

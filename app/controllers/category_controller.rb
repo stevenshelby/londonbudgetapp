@@ -1,4 +1,5 @@
 class CategoryController < ApplicationController
+  before_filter :authenticate_admin!, :except => [:show]
   def new
     @category = Category.new
   end

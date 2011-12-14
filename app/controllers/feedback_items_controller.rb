@@ -1,5 +1,7 @@
 class FeedbackItemsController < ApplicationController
-  # GET /feedback_items
+before_filter :authenticate_admin!
+
+# GET /feedback_items
   # GET /feedback_items.json
   def index
     @feedback_items = FeedbackItem.all

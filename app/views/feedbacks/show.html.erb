@@ -1,6 +1,8 @@
+  <% if !admin_signed_in? %>
 <h2>Thank You For Your Feedback</h2>
 
 <h3 class="add_cuts_feedback">This is what you wrote:</h3>
+<% end -%>
 <table id="add_cuts_items">
 <tr>
         <th>Your Priority</th>
@@ -20,6 +22,7 @@
   <p style=margin-left:50px><%= @feedback.comment %></p>
 <p></p>
 <p></p>
+  <% if !admin_signed_in? %>
 <h2>This is what the city is proposing for 2012 (In alphabetical order)</h2>
 
 <table id="add_cuts_items">
@@ -80,5 +83,5 @@
 </tr>
 </table>
 <p></p>
-<h2>For further reading, check out the full <%= link_to("2012 Adds and Cuts List","http://www.london.ca/budget/Budget_2012/Adds_and_Cuts_List.pdf")%></h2>
+<h2>For further reading, check out the full <%= link_to("2012 Adds and Cuts List","http://www.london.ca/budget/Budget_2012/Adds_and_Cuts_List.pdf")%></h2><% end -%>
 <center><%= link_to('Return to Budget Home', root_path) %></center>

@@ -1,4 +1,6 @@
 class BudgetTypesController < ApplicationController
+
+before_filter :authenticate_admin!
   # GET /budget_types
   # GET /budget_types.json
   def index
